@@ -1,7 +1,7 @@
 🕵️ Secret Auction Program (Python)
 
 A simple command-line based Secret Auction system built using Python. This program allows multiple users to place bids privately and determines the highest bidder at the end.
-
+ 
 📌 Features
 👤 Multiple bidders can participate
 💰 Accepts bid amounts from each user
